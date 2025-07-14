@@ -52,3 +52,4 @@ pytorch-learning-journal/            # 仓库根目录
 └── slides/                          # 可选：课堂/论文 PPT 或思维导图 PDF
     └── 2025-07-18_attention-mechanism.pdf
 ```
+发现了一些问题，在创建完基本目录结构后，我发现我的基础不够牢固，我需要先学习几个前置的常用包：pandas，numpy，除此以外我还需要在强化一下数学的基础，所以我目前要回归到Python的学习中，在Python学习同时进行数学的学习
